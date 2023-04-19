@@ -1,0 +1,14 @@
+{
+"python.formatting.autopep8Path": "/home/gorthyn/.pyenv/shims/autopep8",
+"python.linting.pylintEnabled": true,
+"python.analysis.diagnosticSeverityOverrides": {
+  "reportGeneralTypeIssues": "none"
+},
+"files.exclude": {
+  "**/__pycache__": true
+},
+"[python]": {
+  "editor.formatOnType": true
+},
+"files.autoSave": "afterDelay",
+}
